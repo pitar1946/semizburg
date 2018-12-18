@@ -36,6 +36,7 @@ class Shop extends Component {
               <li>Dostava omiljenog piva na mjesečnoj i sedmičnoj bazi u željenoj količini.</li>
             </ul>
           </div>
+          <p>Da bi usli shop upisite lozinku 'quiali' <a href='https://testmysemy.myshopify.com/' target='_blank'>My Shop</a></p>
          </div>
       </div>
     );

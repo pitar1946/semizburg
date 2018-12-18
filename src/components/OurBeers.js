@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+//import avet from '../images/avet.jpg';
 
 
 class OurBeers extends Component {
